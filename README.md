@@ -1,4 +1,4 @@
-# Loan Default Prediction
+# Credit Risk Prediction
 
 ## Objective
 The goal of this project is to predict whether a loan application will be approved or rejected based on applicant and loan-related features. The predictions can help banks identify high-risk applicants and optimize lending strategies.
