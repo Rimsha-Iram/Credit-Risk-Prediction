@@ -28,4 +28,6 @@ The goal of this project is to predict whether a loan application will be approv
 
 ## Author
 - Rimsha Iram
-- [[Link to Portfolio](https://www.datascienceportfol.io/rimshairamanalytics)]
+- [Check Portfolio](https://www.datascienceportfol.io/rimshairamanalytics)
+- Let’s connect on [LinkedIn](www.linkedin.com/in/rimsha-iram-analytics)
+
